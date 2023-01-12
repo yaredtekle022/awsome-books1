@@ -80,7 +80,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo Link](https://yaredtekle022.github.io/awsome-books/)
+[Live Demo Link](https://yaredtekle022.github.io/awsome-books1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +101,7 @@ Example command:
 
 To clone this repo run this command
 
-git clone https://github.com/yaredtekle022/awsome-books
+git clone https://github.com/yaredtekle022/awsome-books1
 
 <!--
 Example commands:
@@ -161,23 +161,23 @@ Example:
 
 👤 **Author**
 
-- Github: [@githubhandle](https://github.com/yaredtekle022)
-- Twitter: [@twitterhandle](https://twitter.com/YaredTekle22)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yared-tekle-5708ba22b)
+- Github: [@Yared Tekle](https://github.com/yaredtekle022)
+- Twitter: [@Yared Tekle](https://twitter.com/YaredTekle22)
+- LinkedIn: [Yared Tekle](https://www.linkedin.com/in/yared-tekle-5708ba22b)
 
 
 👤 **Author 2**
 
-- Github: [@githubhandle](https://github.com/cindykandie)
-- Twitter: [@twitterhandle](https://twitter.com/cindykandie)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/cindykandie)
+- Github: [@Cindy Kandie](https://github.com/cindykandie)
+- Twitter: [@Cindy Kandie](https://twitter.com/cindykandie)
+- LinkedIn: [@Cindy Kandie](https://www.linkedin.com/in/cindykandie)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[desktop version]**
+- [ ] **[]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
