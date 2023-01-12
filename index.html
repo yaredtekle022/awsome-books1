@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book list</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Awesome Book</h1> <hr>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Remove</th>
+                </tr>
+                <thead> <br>
+                <tbody id="bookList"></tbody>
+        </table> <br> <hr>
+        <form id="enter">
+            <h1>Add books</h1>
+            <input type="text" id="title" placeholder="Title"></br>
+            <input type="text" id="author" placeholder="Author"></br>
+            <div id=submit>
+                <button id="submit" type="submit">Submit</button>
+            </div>
+        </form>
+        <script src="script.js">
+        </script>
+</body>
+
+</html>
