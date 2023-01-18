@@ -139,11 +139,11 @@ a {
 /* contact section */
 
 .contact {
-  display: flex;
   flex-direction: column;
   align-items: center;
   gap: 10px;
   margin-bottom: 50px;
+  display: none;
 }
 
 .contact h1 {
@@ -159,10 +159,6 @@ a {
 .contact ul li {
   margin-left: 35px;
   font-size: 20px;
-}
-
-.contact {
-    display: none;
 }
 
 footer {
