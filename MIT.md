@@ -1,4 +1,4 @@
-## Copyright 2023, [Yared and Cindy]
+## Copyright 2023, [Yared]
 
 ###### Please delete this line and the next one
 
