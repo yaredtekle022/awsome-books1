@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Finishing Mobile Version Portfolio] <a name="about-project"></a>
 
-> Awesome books
+> Awesome books modular
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -72,7 +72,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **[portofolio Desktop app]**
+- **[modular es6]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,25 +159,20 @@ Example:
 
 <!-- AUTHORS -->
 
-👤 **Author**
+👤 **Yared**
 
 - Github: [@Yared Tekle](https://github.com/yaredtekle022)
 - Twitter: [@Yared Tekle](https://twitter.com/YaredTekle22)
 - LinkedIn: [Yared Tekle](https://www.linkedin.com/in/yared-tekle-5708ba22b)
 
 
-👤 **Author 2**
-
-- Github: [@Cindy Kandie](https://github.com/cindykandie)
-- Twitter: [@Cindy Kandie](https://twitter.com/cindykandie)
-- LinkedIn: [@Cindy Kandie](https://www.linkedin.com/in/cindykandie)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[]**
+- [ ] **[to do list]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
